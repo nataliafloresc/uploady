@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+
+gem 'simple_form', '~> 3.1.0'
+
 gem 'devise'
 
 gem 'twitter-bootstrap-rails'
